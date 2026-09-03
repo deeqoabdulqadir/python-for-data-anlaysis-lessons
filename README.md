@@ -45,3 +45,13 @@ Python was created by *Guido van Rossum* and was first released in *1991*. It is
 *Google Colab (Google Collaboratory)* is an online environment that allows users to write and execute Python code directly in a web browser.
 
 Students do not normally need to install Python on their computers to start using Colab. Google Colab is based on the *Jupyter Notebook* environment.
+
+A Colab notebook can contain:
+
+* Python code
+* Explanations
+* Tables
+* Results
+* Charts
+* Images
+* Mathematical expressions
