@@ -38,3 +38,10 @@ This section introduces the fundamentals of Python, NumPy, and Pandas for data a
 * Scientific computing
 
 Python was created by *Guido van Rossum* and was first released in *1991*. It is popular because its syntax is relatively simple, readable, and beginner-friendly.
+# ☁️ 2. Introduction to Google Colab
+
+## What is Google Colab?
+
+*Google Colab (Google Collaboratory)* is an online environment that allows users to write and execute Python code directly in a web browser.
+
+Students do not normally need to install Python on their computers to start using Colab. Google Colab is based on the *Jupyter Notebook* environment.
